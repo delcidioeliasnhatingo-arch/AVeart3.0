@@ -1,0 +1,6 @@
+{
+  "name": "AVEART - Tech & Electronics Store",
+  "description": "Loja online moderna de eletrônicos, hardware e periféricos de alta performance com filtros avançados, checkout seguro em USD e integração Shopify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
